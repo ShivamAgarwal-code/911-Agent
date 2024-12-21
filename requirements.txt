@@ -1,0 +1,13 @@
+transformers
+ollama
+openai-whisper
+SpeechRecognition
+langdetect
+transliterate
+indic_transliteration
+unidecode
+pypinyin
+gtts
+opencv-python
+tk
+pyaudio
